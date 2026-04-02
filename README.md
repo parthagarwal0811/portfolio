@@ -1,2 +1,2 @@
-# portfolio
-Lab Experiment 2
+# Portfolio
+Lab Experiment 2 - Portfolio
